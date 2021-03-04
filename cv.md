@@ -7,4 +7,13 @@
 
 I have good analytical skills. Easy to learn. I work well in a team. I want to learn more about JS.
 
+## Skills ##
+
+* HTML, CSS3, JS, Vue.js, React, Vuetify, Bootstrap;
+* Preprocessors: Sass;
+* Webpack;
+* Git;
+* Code Editor: Webstorm;
+* English (B1)
+
 
