@@ -16,4 +16,12 @@ I have good analytical skills. Easy to learn. I work well in a team. I want to l
 * Code Editor: Webstorm;
 * English (B1)
 
+## Code examples ##
 
+- store: https://github.com/OlgaMoisevich/My-Project.git
+- react_app quiz: https://github.com/OlgaMoisevich/react_redux_app.git
+
+## Education ##
+
+* Belarusian State Academy of Telecommunications (2005-2012);
+* English courses
