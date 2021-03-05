@@ -10,9 +10,9 @@ header {
 }
 
 header .contacts_block { margin-left: 15px }
-.contacts_block .info  { font-size: 1.2rem }
-.contacts_block h2     { margin: 0 }
-.header_avatar img     { max-height: 223px }
+.contacts-block .info  { font-size: 1.2rem }
+.contacts-block h2     { margin: 0 }
+.header-avatar img     { max-height: 223px }
 
 section p,
 section li {
