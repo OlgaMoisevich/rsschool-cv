@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header .contacts_block { margin-left: 15px }
+.contacts-block .info  { font-size: 1.2rem }
+.contacts-block h2     { margin: 0 }
+.header-avatar img     { max-height: 223px }
+
+section p,
+section li {
+    font-size: 20px;
+}
+
+
+
